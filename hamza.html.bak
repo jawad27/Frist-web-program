@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Frist Web Programging</title>
+</head>
+<body>
+<h1>Jawad Hamza</h1>
+<h2>Qabil Shah</h2>
+<h3>37101985674562</h3>
+<h4>5 Semester</h4>
+<h5>Nowshera</h5>
+<h6>islam</h6>
+<hr>
+<p>my name is JawadHamza.my father name is QabilShah.I belong from Nowshera KPK.My fater retierd from Pakistan AirForce PAF.I have completed my primary and Collage from Fazia Degree Collage FDC.Currently i am in 5 semester and doing BSCS from FUUAST Islamabad.I got 3.35 CGPA.In future i want carry out Web Programing and AI.  </p>
+<hr>
+<img src="img.jpg" alt="boy image" width="300">
+<hr>
+<a href="http://www.google.com" target="-black">GOOGLE</a>
+<hr>
+<a href="https://images.pexels.com/photos/9334434/pexels-photo-9334434.jpeg?cs=srgb&dl=pexels-ali-%C5%9Fenol-9334434.jpg&fm=jpg" target="-black">RELATIVE URL </a>
+<hr>
+<a href="hamza2.html" target="-black">ABSOLUTE URL</a>
+</body>
+</html>
